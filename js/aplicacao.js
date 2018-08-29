@@ -1,1 +1,1 @@
-alert(document.getElementById('h3').innerHTML)
+alert(document.querySelector('#h3').innerHTML)
